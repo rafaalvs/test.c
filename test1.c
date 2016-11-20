@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(){
-printf("I love beef!\n");
+printf("Olá!\n");
 return 0;
 }
